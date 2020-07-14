@@ -13,7 +13,6 @@ def larrysArray(A):
         for j in range(i+1, len(A)):
             if A[i] > A[j]:
                 count += 1
-    print(count)
     if count % 2 == 0:
         return 'YES'
     else:
