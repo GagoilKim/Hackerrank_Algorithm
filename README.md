@@ -1,5 +1,5 @@
 # Hackerrank_Algorithm
-This is a solution to algorithm problems on 'Hackerrank'.
+This is a solution for algorithm problems on 'Hackerrank'.
 
 ## Reference
 You can see the algorithm problmes below the link.
